@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9546C29A2C03B53E0041B671 /* SideMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9546C2992C03B53E0041B671 /* SideMenuView.swift */; };
 		95807D842C03A9D8009B7848 /* NavSideBarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95807D832C03A9D8009B7848 /* NavSideBarApp.swift */; };
 		95807D862C03A9D8009B7848 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95807D852C03A9D8009B7848 /* ContentView.swift */; };
 		95807D882C03A9DA009B7848 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 95807D872C03A9DA009B7848 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9546C2992C03B53E0041B671 /* SideMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuView.swift; sourceTree = "<group>"; };
 		95807D802C03A9D8009B7848 /* NavSideBar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavSideBar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		95807D832C03A9D8009B7848 /* NavSideBarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavSideBarApp.swift; sourceTree = "<group>"; };
 		95807D852C03A9D8009B7848 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 			children = (
 				95807D832C03A9D8009B7848 /* NavSideBarApp.swift */,
 				95807D852C03A9D8009B7848 /* ContentView.swift */,
+				9546C2992C03B53E0041B671 /* SideMenuView.swift */,
 				95807D872C03A9DA009B7848 /* Assets.xcassets */,
 				95807D8C2C03A9DA009B7848 /* Persistence.swift */,
 				95807D912C03A9DA009B7848 /* Info.plist */,
@@ -267,6 +270,7 @@
 			files = (
 				95807D8D2C03A9DA009B7848 /* Persistence.swift in Sources */,
 				95807D862C03A9D8009B7848 /* ContentView.swift in Sources */,
+				9546C29A2C03B53E0041B671 /* SideMenuView.swift in Sources */,
 				95807D902C03A9DA009B7848 /* NavSideBar.xcdatamodeld in Sources */,
 				95807D842C03A9D8009B7848 /* NavSideBarApp.swift in Sources */,
 			);
